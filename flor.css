@@ -1,0 +1,31 @@
+body {
+    background-color: #f0f8ff; 
+    font-family: 'Georgia', serif;
+    color: #333; 
+    padding: 20px;
+    line-height: 1.8; 
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+p {
+    text-align: center; 
+    font-size: 1.2em;
+}
+.highlight {
+    color: #ff6347; 
+    font-weight: bold;
+}
+.blue {
+    color: #4682b4;
+}
+.gold {
+    color: #daa520; 
+}
+.pink {
+    color: #ff69b4; 
+}
